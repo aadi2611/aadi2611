@@ -19,6 +19,7 @@ Here are a few projects I've worked on:
 
 - **Stock Prediction Using Twitter Sentiment Analysis**: Analyzing Twitter data to predict stock market trends using sentiment analysis.
 - **Crop Recommendation System**: A system that suggests suitable crops based on weather and soil conditions.
+- **Bodyfit Solutions**:Created a responsive website for Bodyfit Solutions using HTML, CSS, JavaScript, Bootstrap, dynamic navigation, interactive forms, testimonials, SEO design, and jQuery animations for a seamless user experience.
   
 I am always excited to learn new things and build creative solutions to everyday challenges.
 
